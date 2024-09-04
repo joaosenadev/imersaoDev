@@ -24,49 +24,49 @@ let dados = [
         titulo: "Ariana Grande",
         descricao: "Cantora pop americana conhecida por sua voz poderosa e performances energéticas.",
         redeSocial: "https://www.instagram.com/arianagrande/",
-        musicaPopular: "https://www.youtube.com/watch?v=L9mE-V9n34k", // thank u, next
+        musicaPopular: "https://www.youtube.com/watch?v=gl1aHhXnN1k", // thank u, next
         wiki: "https://pt.wikipedia.org/wiki/Ariana_Grande"
     },
     {
         titulo: "BTS",
         descricao: "Grupo sul-coreano de K-pop que conquistou o mundo com suas músicas e coreografias sincronizadas.",
         redeSocial: "https://www.instagram.com/bts.bighitofficial/",
-        musicaPopular: "https://www.youtube.com/watch?v=kX07pm6I_Qs", // Dynamite
+        musicaPopular: "https://www.youtube.com/watch?v=gdZLi9oWNZg", // Dynamite
         wiki: "https://pt.wikipedia.org/wiki/BTS"
     },
     {
         titulo: "Dua Lipa",
         descricao: "Cantora britânica de música pop conhecida por seus hits dançantes e estilo único.",
         redeSocial: "https://www.instagram.com/dualipa/",
-        musicaPopular: "https://www.youtube.com/watch?v=pXRViK1CV8A", // Levitating
+        musicaPopular: "https://www.youtube.com/watch?v=TUVcZfQe-Kw", // Levitating
         wiki: "https://pt.wikipedia.org/wiki/Dua_Lipa"
     },
     {
         titulo: "Ed Sheeran",
         descricao: "Cantor e compositor britânico conhecido por suas canções românticas e voz suave.",
         redeSocial: "https://www.instagram.com/teddysphotos/",
-        musicaPopular: "https://www.youtube.com/watch?v=LGK8tod5G94", // Shape of You
+        musicaPopular: "hhttps://www.youtube.com/watch?v=JGwWNGJdvx8", // Shape of You
         wiki: "https://pt.wikipedia.org/wiki/Ed_Sheeran"
     },
     {
         titulo: "Lady Gaga",
         descricao: "Cantora e compositora americana conhecida por sua excentricidade e versatilidade musical.",
         redeSocial: "https://www.instagram.com/ladygaga/",
-        musicaPopular: "https://www.youtube.com/watch?v=qrO4YZeyl0I", // Shallow
+        musicaPopular: "https://www.youtube.com/watch?v=bo_efYhYU2A", // Shallow
         wiki: "https://pt.wikipedia.org/wiki/Lady_Gaga"
     },
     {
         titulo: "Rihanna",
         descricao: "Cantora barbadiana conhecida por seus hits dançantes e estilo fashion.",
         redeSocial: "https://www.instagram.com/badgalriri/",
-        musicaPopular: "https://www.youtube.com/watch?v-QGJuZ8jw_8", // Umbrella
+        musicaPopular: "https://www.youtube.com/watch?v=CvBfHwUxHIk", // Umbrella
         wiki: "https://pt.wikipedia.org/wiki/Rihanna"
     },
     {
         titulo: "Justin Bieber",
         descricao: "Cantor canadense que se tornou famoso ainda na adolescência.",
         redeSocial: "https://www.instagram.com/justinbieber/",
-        musicaPopular: "https://www.youtube.com/watch?v=kX07pm6I_Qs", // Sorry
+        musicaPopular: "https://www.youtube.com/watch?v=fRh_vgS2dFE", // Sorry
         wiki: "https://pt.wikipedia.org/wiki/Justin_Bieber"
     }
 ]
